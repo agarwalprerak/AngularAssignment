@@ -1,3 +1,1 @@
 # AngularAssignment
-
-https://doselect.com/gateways/test?access_code=UldDpfRMUYX1KKe8PmRZL2ZIuuVlSu7mXcqBNF4PKdr8Osiq56A5bqk7K/JKBwzTWneY4JjgmxtYhmEBYBEpbh5GypOjpGPaFgceXOsYDMs%3D
